@@ -1,4 +1,4 @@
-# REddit Referral Bot
+# Reddit Referral Bot
 
 
 ## Table of Contents
